@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: May 14, 2021
-##### (delete me or comment me out)
 
 **Today's Progress**: Introduced myself to JavaScript, mainly focused on learning the technical aspect of it.
 
@@ -10,7 +9,6 @@
 **Link to work:** N/A
 
 ### Day 2: May 15, 2021
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
@@ -18,7 +16,6 @@
 **Link to work:** 
 
 ### Day 23 May 16, 2021
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
