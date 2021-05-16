@@ -10,12 +10,20 @@
 
 ### Day 2: May 15, 2021
 
+**Today's Progress**: Tried out a few JavaScript components on my personal website
+
+**Thoughts:** I am beginning to really like JavaScript. It seems very straight-forward in all aspects and haven't encountered any counter-intuitive aspects of it.
+
+**Link to work:** N/A... I performed the test on a local machine and didn't FTP the files to my website yet.
+
+### Day 3 May 16, 2021
+
 **Today's Progress**: 
 
 **Thoughts:** 
 **Link to work:** 
 
-### Day 23 May 16, 2021
+### Day 4 May 17, 2021
 
 **Today's Progress**: 
 
