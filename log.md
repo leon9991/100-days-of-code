@@ -18,14 +18,24 @@
 
 ### Day 3 May 16, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Have started work on a web app I want to create.
 
-**Thoughts:** 
-**Link to work:** 
+**Thoughts:** Today I realized how truly versatile JavaScript is. When I first learned of it I thought it was simply a way to make your websites more interactive. Now I know that there is so much more that can be done using JavaScript.
+
+**Link to work:** N/A... All files are on my local machine at the moment.
 
 ### Day 4 May 17, 2021
 
 **Today's Progress**: 
 
 **Thoughts:** 
+
+**Link to work:** 
+
+### Day 5 May 18, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
 **Link to work:** 
